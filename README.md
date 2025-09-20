@@ -66,8 +66,7 @@ The following is a description of the file used :
 3. Same as using python regarding the data exploration steps, only the file extension is different, where the file **datacleaning_salary.ipynb** can be used for Jupyter Notebook.
 4. The dataset that has been done Data Cleaning is in the **salary-dataset.csv** file.
 5. SQL query file that will be used for data visualization is contained in the **query.sql** file.
-6. The file with the Power Point extension (**ASSIGNMENT4.pptx**) contains the steps and the results of the work that has been done.
-7. The file with the Portable Document Format (PDF) extension (**ASSIGNMENT4.pdf**) contains the steps and the results of the work same as the PPT file, that has been done.
+   
 
 The steps for Data Cleaning are as follows :
 1. Change data type 
@@ -76,4 +75,4 @@ The steps for Data Cleaning are as follows :
 4. Remove outliers : Delete data that has a value that exceeds the upper and lower limits (data outliers) in the ‘salary_in_usd' column, so that the total data becomes 552.
 5. Remove unnecessary data
 
--- THANK YOU [@damalialutfiani](https://www.linkedin.com/in/damalialutfiani/) --
+-- THANK YOU [@SakshiJairath](https://www.linkedin.com/in/sakshi-jairath-88a6a1129/) --
